@@ -5,6 +5,6 @@
     "1.9.4-recommended": "1.5.0.0"
   },
   "1.9.4": {
-    "1.5.0.0": "- Really fixed TileEntities not syncing properly.\n- The fluid part of the TankBlock model is now created programmatically. This way the fluid texture can be tinted, which should fix the gray fluid textures issues with for example Tinkers Construct.\n- Reduced texture Z-fighting by rendering the frame and the fluid in different layers (it's still present under certain conditions).\n- Updated to Forge 1.9.4-12.17.0.1987."
+    "1.5.0.0": "- Initial port to Minecraft 1.9.4./n- Added sounds for filling and emptying containers (e.g. buckets)."
   }
 }
