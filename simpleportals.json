@@ -1,0 +1,10 @@
+{
+  "homepage": "http://minecraft.curseforge.com/projects/simpleportals",
+  "promos": {
+    "1.11.2-latest": "1.4.0.0",
+    "1.11.2-recommended": "1.4.0.0"
+  },
+  "1.11.2": {
+    "1.4.0.0": "- Initial port to Minecraft 1.11.2."
+  }
+}
