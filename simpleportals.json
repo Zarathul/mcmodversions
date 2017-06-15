@@ -1,10 +1,10 @@
 {
   "homepage": "http://minecraft.curseforge.com/projects/simpleportals",
   "promos": {
-    "1.11.2-latest": "1.4.0.0",
-    "1.11.2-recommended": "1.4.0.0"
+    "1.11.2-latest": "1.11.2-1.4.0.0",
+    "1.11.2-recommended": "1.11.2-1.4.0.0"
   },
   "1.11.2": {
-    "1.4.0.0": ""
+    "1.11.2-1.4.0.0": "See https://github.com/Zarathul/simpleportals/releases/tag/1.11.2-1.4.0.0"
   }
 }
