@@ -1,15 +1,15 @@
 {
   "homepage": "http://minecraft.curseforge.com/projects/simpleportals",
   "promos": {
-    "1.12.2-latest": "1.12.2-1.5.1.0",
-    "1.12.2-recommended": "1.12.2-1.5.1.0",
+    "1.12.2-latest": "1.12.2-1.5.1.1",
+    "1.12.2-recommended": "1.12.2-1.5.1.1",
     "1.12.1-latest": "1.12.1-1.5.0.0",
     "1.12.1-recommended": "1.12.1-1.5.0.0",
     "1.11.2-latest": "1.11.2-1.4.0.0",
     "1.11.2-recommended": "1.11.2-1.4.0.0"
   },
   "1.12.2": {
-    "1.12.2-1.5.1.0": "Changelog https://github.com/Zarathul/simpleportals/releases/tag/1.12.2-1.5.1.0"
+    "1.12.2-1.5.1.1": "Changelog https://github.com/Zarathul/simpleportals/releases/tag/1.12.2-1.5.1.1"
   },
   "1.12.1": {
     "1.12.1-1.5.0.0": "Changelog https://github.com/Zarathul/simpleportals/releases/tag/1.12.1-1.5.0.0"
